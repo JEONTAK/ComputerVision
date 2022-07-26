@@ -1,0 +1,11 @@
+Best_model_weight.pth
+
+.DS_Store
+
+/datasets/train
+/datasets/val
+/datasets/hint
+/datasets/mask
+
+/data/__pycache__
+__pycache__
